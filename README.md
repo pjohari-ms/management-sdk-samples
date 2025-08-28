@@ -28,7 +28,8 @@ The samples also include some other handy conveniences for developers working wi
 
 The samples are available in 5 languages including:
 
-- [C#](/Csharp/)
+- [C#](/Csharp/) - Uses beta version of Azure.ResourceManager.CosmosDB with latest features
+- [C# V2](/CSharpV2/) - Uses stable version of Azure.ResourceManager.CosmosDB for production use
 - [Python](/Python/)
 - [Go](/Go/)
 - [Java](/Java)
